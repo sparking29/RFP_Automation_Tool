@@ -4,4 +4,4 @@ While working at Walmart Media Group, I realized a majority of Account Managemen
 
 By using this template, it would not only save employees' valuable time doing a mundane task, but also ensure that naming conventions would be followed correctly in order to prevent mistakes such as mis-matched ads to targets down the line. 
 
-On average, this tool saved Account Managers 4 hours per week on average.
+On average, this tool saved Account Managers 4 hours per week.
